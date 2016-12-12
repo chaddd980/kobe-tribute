@@ -1,0 +1,24 @@
+.main-div {
+  margin-top: 60px;
+}
+
+.purple {
+  color: purple;
+}
+.gold {
+  color: gold;
+}
+
+ul {
+  list-style: none;
+}
+
+.bullet {
+  font-weight: bold;
+  font-size: 30px;
+  color: black;
+}
+
+.qoute {
+  font-size: 22px;
+}
